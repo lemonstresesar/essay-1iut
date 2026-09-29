@@ -1,0 +1,6 @@
+{
+  "name": "RequêteIUT - Portail des Requêtes IUT de Douala",
+  "description": "Plateforme officielle de dépôt et de suivi des requêtes administratives et académiques pour les étudiants de l'Institut Universitaire de Technologie (IUT) de Douala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
